@@ -1,6 +1,6 @@
 <div align="center">
     <h1>pex - a simple python executioner</h1>
-    <img src="https://img.shields.io/website.svg?url=http%3A%2F%2Fpex-recovery.anarix0.repl.co%2Findex.html">
+    <img src="https://img.shields.io/github/license/anarix0/pex">
     <br>
     <img src="https://img.shields.io/github/languages/top/anarix0/pex?color=%23000000">
     <img src="https://img.shields.io/github/stars/anarix0/pex?color=%23000000&logoColor=%23000000">
