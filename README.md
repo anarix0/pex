@@ -14,6 +14,12 @@
 </div>
 <hr style="border-radius: 20%; margin-top: 30px; margin-bottom: 60px;" noshade="" size="35" width="100%">
 
+## Functions
+- Basic Base64 encryption for files
+- Fast updates, repairs and installs
+- Frequent updates
+- Easy app creation
+
 ## Install
 
 ### Requirements
