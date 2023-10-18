@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>pex - a simple python executioner</h1>
+    <h1>pex</h1>
     <img src="https://img.shields.io/github/license/anarix0/pex">
     <br>
     <img src="https://img.shields.io/github/languages/top/anarix0/pex?color=%23000000">
