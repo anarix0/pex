@@ -17,8 +17,7 @@
 ## Functions
 - Basic Base64 encryption for files
 - Fast updates, repairs and installs
-- Frequent updates
-- Easy app creation
+- - Easy app creation
 
 ## Install
 
